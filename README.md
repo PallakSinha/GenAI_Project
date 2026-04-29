@@ -44,9 +44,9 @@ Retrieved context + query → sent to Gemini
 Gemini generates final response     
 
 ### 📂 Project Structure     
-├── GenAI_Project.ipynb   # Main implementation notebook
-├── data/                 # Input PDF files
-├── README.md             # Project documentation
+├── GenAI_Project.ipynb   # Main implementation notebook     
+├── data/                 # Input PDF files     
+├── README.md             # Project documentation     
 
 ### How to Run     
 1. Clone Repository     
@@ -67,6 +67,5 @@ Example Queries
 ### Output     
 The chatbot retrieves relevant order data and generates a natural language response based on context.     
 
-## Conclusion     
-This project demonstrates how Generative AI + Semantic Search can transform static datasets into interactive, intelligent systems for data analysis.     
+            
 
